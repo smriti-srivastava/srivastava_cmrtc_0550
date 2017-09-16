@@ -1,6 +1,6 @@
 import java.util.Date;
 
-/**
+/*
  * A fix-sized array of students
  * array length should always be equal to the number of stored elements
  * after the element was removed the size of the array should be equal to the number of stored elements
